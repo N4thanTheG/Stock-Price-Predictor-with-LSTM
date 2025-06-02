@@ -35,3 +35,7 @@ This was also an initial way for me to practice my data analytics as well so I t
 2. Open `Stock Closing Price Predictor.ipynb`  
 3. Run all cells in sequence  
 4. Type in any stock ticker you want to predict!
+
+## ✨ What I Learned
+- Using time series data for deep learning 
+- The practical use of LSTM in real-world forecasting
